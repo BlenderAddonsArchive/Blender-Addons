@@ -3,7 +3,7 @@ bl_info = {
     "name": "Duplicate Array",
     "description": "Copies active object or group instance into multiple duplicates, linked or not, along X and/or Y and/or Z axis, relative to local or global orientation",
     "author": "domlysz@gmail.com",
-    "license': 'GPL',
+    "license": 'GPL',
     "version": (0, 1),
     "blender": (2, 7, 0),
     "location": "View3D > Object",
