@@ -47,7 +47,7 @@ def findBestSizeDecrease(length, offsetInit, eps, step, maxDecreaseFactor):
 	return offset
 
 class ToolsPanelCopyFence(bpy.types.Panel):
-	bl_category = "LXL"
+	bl_category = "Tools"
 	bl_label = "Copy fence"
 	bl_space_type = "VIEW_3D"
 	bl_context = "objectmode"
