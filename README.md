@@ -5,7 +5,9 @@
 # Duplicate array
 
 Can duplicate object or group instance
+
 Can duplicate object as new instance
+
 Specify distance between bounding box or between origin
 
 ![](https://raw.githubusercontent.com/wiki/domlysz/Blender-Addons/img/dupli_array.gif)
